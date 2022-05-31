@@ -1,0 +1,22 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url(img/book.png);
+}
+
+img{
+  height: 200px;
+}
+
+.btn {
+  border-radius: 10px;
+}
+
+.container {
+  border: 2px solid black;
+  box-shadow: 8px 8px rgba(51, 55, 51, 0.6);
+}
+
+.row {
+  margin-bottom: 50px;
+}
